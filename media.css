@@ -1,0 +1,29 @@
+@media (max-width:1023px){
+    header{
+        padding: 15px 15px;
+    }
+    .menu-tab{
+        display: none;
+        position: absolute;
+        right: 0;
+        top: 70px;
+        width: 170px;
+        height: 210px;
+        background-color: rgba(0, 0, 0, 0.705);
+    }
+    .menu-tab li{
+        margin: 10px;
+    }
+    .menu-toggle{
+        display: block;
+    }
+    .hero-text{
+        width: 80%;
+    }
+    .about-info{
+        max-width: 85%;
+    }
+    .social-link{
+        max-width: 80%;
+    }
+}
